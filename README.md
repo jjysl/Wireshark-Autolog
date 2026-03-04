@@ -96,7 +96,7 @@ O projeto foi testado com capturas geradas pelo **DVWA (Damn Vulnerable Web Appl
 
 ## Autores
 
-- José Rodrigues — RM566637
-- Rafael Martins — RM567955
+- José Rodrigues
+- Rafael Martins
 
 **Professor:** Márcio Cruz — FIAP
